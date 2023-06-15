@@ -43,3 +43,46 @@ The objectives of the analysis are as follows:
 
 5. To demonstrate and visualize whether higher depression means lower income composition of resources for all countries.
 
+# 3. Data
+
+#Load the first data set i.e. life expectancy data
+
+df1 = pd.read_csv("C:/Users/kinyanjuim/Desktop/Project2_Groupwork/life expectancy data/Life_Expectancy_Data_v2.csv")
+
+#Load the second data set i.e. Global Trends in Mental Health Disorder
+
+df2 = pd.read_csv("C:/Users/kinyanjuim/Desktop/Project2_Groupwork/mental health data/Mental_health_Depression_disorder_Data.csv", 
+                  low_memory=False)
+
+# 4. Conclusion
+
+1. Alcohol use has a positive correlation with life expectancy. The higher the alcohol use, the shorter the life expectancy.
+2. There's a positive correlation between eating disorders and BMI.
+3. There's a positive correlation between anxiety disorders and depression.
+4. The higher the effective utilization of a company’s resources, the lower the depression rates.
+5. Uganda had the highest depression rates in comparison to the other EAC countries while Kenya had the least. In Europe, Sweden had the highest depression rates in comparison to the other European countries while Denmark had the least rates.
+
+# 5. Recommendations
+
+1. Hospitals, health institutions – Provision of network support of mental health care providers and affordable services.
+
+2. Non-government Organizations (NGOs) e.g. WHO - Develop awareness within communities to break stigma, and provide opportunities for collaboration between providers, patients and local communities.
+
+3. Leaders within society to champion for research resources and funding within mental health institutions.
+
+Beneficiaries of the results/ outcome from the project;
+1. Hospitals, health institutions
+2. Non-government Organizations (NGOs) e.g WHO
+3. Leaders within society
+
+Future Work
+
+A data scientist will never have enough time to explore all aspects of dataset. If you had more time, what other aspects of the dataset would you explore?
+
+1. Predictive analytics using Machine Learning models; Regression etc
+
+2. Combined the data with treatment data and assess impact changes on life expectancy.
+
+3. Geospatial analysis of the prevalence of mental disorders across various continents.
+
+# 6. Thank you.
