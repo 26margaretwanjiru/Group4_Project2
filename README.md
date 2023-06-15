@@ -1,5 +1,13 @@
 # Group4 Project2 Data Visualisation with Python Moringa Course
 
+Group 4 Members:
+KENNETH MARARO
+FELIX MUCHANGA
+GABRIEL OTIENO
+ABIGAEL GITAU
+MARGARET KINYANJUI
+
+
 Disclaimer;
 
 This project may contain sensitive topics on mental health disorders that may make some people feel uncomfortable.
