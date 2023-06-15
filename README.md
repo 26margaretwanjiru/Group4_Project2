@@ -54,6 +54,11 @@ df1 = pd.read_csv("C:/Users/kinyanjuim/Desktop/Project2_Groupwork/life expectanc
 df2 = pd.read_csv("C:/Users/kinyanjuim/Desktop/Project2_Groupwork/mental health data/Mental_health_Depression_disorder_Data.csv", 
                   low_memory=False)
 
+Visualisations;
+
+![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/5d0acea0-1b08-4aee-a44b-68fc3b93ff4d)
+
+
 # 4. Conclusion
 
 1. Alcohol use has a positive correlation with life expectancy. The higher the alcohol use, the shorter the life expectancy.
