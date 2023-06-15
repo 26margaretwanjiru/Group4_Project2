@@ -55,8 +55,57 @@ df2 = pd.read_csv("C:/Users/kinyanjuim/Desktop/Project2_Groupwork/mental health 
                   low_memory=False)
 
 Visualisations;
+1. Missing Data
 
 ![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/5d0acea0-1b08-4aee-a44b-68fc3b93ff4d)
+
+2. Histograms showing the distributions of Life expectancy (men), Life expectancy(women), Depression (%)
+
+![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/c46507ef-eea4-434c-84b1-ff60f198071d)
+
+![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/dfa09e9a-e42b-4004-8500-5870ae51b277)
+
+![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/24611eb9-9fe1-4f34-87b4-5cc317474dd8)
+
+3. Exploring Correlations in our Dataset
+
+![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/1ab83087-2ff2-4743-a6c8-fe67fd4c6c61)
+
+4. Life Expectancy for Men and Women per Country in 2015
+
+![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/588f915e-cbb7-4b79-a73d-38f743a9c353)
+
+5. Prevalence of Mental Health Disorders in EAC Countries in 2015
+
+![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/6791d4a9-946d-435b-ab82-27b4ae446fb2)
+
+6. Prevalence of Mental Health Disorders in European Countries in 2015
+
+![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/346bc17b-d005-467f-a184-9b5b0faf5349)
+
+7. Depression (%) vs. Income composition of resources
+
+![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/24dca692-21d5-4d59-8ef7-74942b717e91)
+
+8. Life Expectancy for Men vs. Depression (%)
+
+  ![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/593c4b4a-ecf4-4e1c-9042-3c9705bf1d26)
+
+9. Life expectancy(women) vs. Depression (%)
+
+![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/4fcdb856-a061-4590-b47f-f5181ff36780)
+
+10. Eating disorders (%) vs. BMI
+
+![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/b190351d-5bc4-492d-95de-a8a642bdc226)
+
+11. Top 10 countries with the highest rates of Depression
+
+![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/e261bb1b-d9b8-405d-ba9a-1aec98ace961)
+
+12. Bottom 10 countries with the least GDP
+
+  ![image](https://github.com/26margaretwanjiru/Group4_Project2/assets/34502518/79c16d66-0f2c-457f-a2a9-377dcc1cdfb1)
 
 
 # 4. Conclusion
