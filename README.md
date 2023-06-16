@@ -1,4 +1,4 @@
-# Group4 Project2 Data Visualisation with Python Moringa Course
+# Group4 Project2 - Data Visualisation with Python Moringa Course
 
 Group 4 Members:
 KENNETH MARARO
